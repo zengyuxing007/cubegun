@@ -17,7 +17,7 @@
             <key>metadata</key>  
             <dict>  
                 <key>bundle-identifier</key>  
-                <string>com.qgbes.pjob</string>  
+                <string>com.candyrocket.cubegun</string>  
                 <key>bundle-version</key>  
                 <string>1.08</string>  
                 <key>kind</key>  
